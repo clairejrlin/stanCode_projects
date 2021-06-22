@@ -123,51 +123,5 @@ def has_prefix(sub_s):
 	return False
 
 
-
-
-
-
-
-	# row1, row2, row3, row4 = [], [], [], []
-	# while True:
-	# 	row_1 = input('1 row of letters: ')
-	# 	row_1 = row_1.lower()
-	# 	if len(row_1) != 7:  # 'a b c d'
-	# 		print('illegal format')
-	# 		break
-	# 	else:
-	# 		if row_1[0].isalpha():
-	# 			row1 += row_1[0]
-	# 		else:
-	# 			print('illegal format')
-	# 			break
-	# 		if row_1[1].isalpha():
-	# 			print('illegal format')
-	# 			break
-	# 		if row_1[2].isalpha():
-	# 			row1 += row_1[2]
-	# 		else:
-	# 			print('illegal format')
-	# 			break
-	# 		if row_1[3].isalpha():
-	# 			print('illegal format')
-	# 			break
-	# 		if row_1[4].isalpha():
-	# 			row1 += row_1[4]
-	# 		else:
-	# 			print('illegal format')
-	# 			break
-	# 		if row_1[5].isalpha():
-	# 			print('illegal format')
-	# 			break
-	# 		if row_1[6].isalpha():
-	# 			row1 += row_1[6]
-	# 		else:
-	# 			print('illegal format')
-	# 			break
-	#    ........
-	# 	break
-
-
 if __name__ == '__main__':
 	main()
