@@ -7,8 +7,12 @@ This repository holds my programming projects done during the period of stanCode
   * python semantics & syntax
 * [Weather Master](https://github.com/clairejrlin/stanCode_projects/blob/main/stanCode_Projects/weather_master/weather_master.py)
   * python semantics & syntax
+* [My Photoshop](https://github.com/clairejrlin/stanCode_projects/blob/main/stanCode_Projects/my_photoshop/best_photoshop_award.py)
+  * image processing
 * [Picture blurred](https://github.com/clairejrlin/stanCode_projects/blob/main/stanCode_Projects/picture_blurred/blur.py)
   * image processing
+* [My Drawing](https://github.com/clairejrlin/stanCode_projects/blob/main/stanCode_Projects/my_drawing/my_drawing.py) 
+  * Python drawing - The neuron cell cycle of brain neural development
 * [Pedestrian Removing Application](https://github.com/clairejrlin/stanCode_projects/blob/main/stanCode_Projects/my_photoshop/stanCodoshop.py)
   * image processing
 * [Breakout Game](https://github.com/clairejrlin/stanCode_projects/blob/main/stanCode_Projects/breakout_game/breakout.py)
