@@ -11,10 +11,10 @@ This repository holds my programming projects done during the period of stanCode
   * image processing
 * [Picture blurred](https://github.com/clairejrlin/stanCode_projects/blob/main/stanCode_Projects/picture_blurred/blur.py)
   * image processing
-* [My Drawing](https://github.com/clairejrlin/stanCode_projects/blob/main/stanCode_Projects/my_drawing/my_drawing.py) 
-  * Python drawing - The neuron cell cycle of brain neural development
 * [Pedestrian Removing Application](https://github.com/clairejrlin/stanCode_projects/blob/main/stanCode_Projects/my_photoshop/stanCodoshop.py)
   * image processing
+* [My Drawing](https://github.com/clairejrlin/stanCode_projects/blob/main/stanCode_Projects/my_drawing/my_drawing.py) 
+  * Python drawing - The neuron cell cycle of brain neural development
 * [Breakout Game](https://github.com/clairejrlin/stanCode_projects/blob/main/stanCode_Projects/breakout_game/breakout.py)
   * animation & game designing
 * [Name Popularity Searching System](https://github.com/clairejrlin/stanCode_projects/blob/main/stanCode_Projects/babyname_searching_system/babygraphics.py)
