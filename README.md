@@ -5,6 +5,8 @@ This repository holds my programming projects done during the period of stanCode
 ## Project Source Code:
 * [Hangman Game](https://github.com/clairejrlin/stanCode_projects/blob/main/stanCode_Projects/hangman_game/hangman.py)
   * python semantics & syntax
+* [Weather Master](https://github.com/clairejrlin/stanCode_projects/blob/main/stanCode_Projects/weather_master/weather_master.py)
+  * python semantics & syntax
 * [Picture blurred](https://github.com/clairejrlin/stanCode_projects/blob/main/stanCode_Projects/picture_blurred/blur.py)
   * image processing
 * [Pedestrian Removing Application](https://github.com/clairejrlin/stanCode_projects/blob/main/stanCode_Projects/my_photoshop/stanCodoshop.py)
