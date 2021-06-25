@@ -1,5 +1,5 @@
 ## *stanCode* Projects
-Hello there!  
+Hello everyone!  
 This repository holds my programming projects done during the period of stanCode SC001 and SC101 course.
 
 ## Project Source Code:
