@@ -20,40 +20,40 @@ def main():
     graphics = BreakoutGraphics()
     graphics.set_speed()
 
-    if live > 0:
-        while True:
-            pause(FRAME_RATE)   # Willie taught me how to set it.
-            if live == 0:
-                graphics.game_over()
-                break
+#   if live > 0:
+    while True:
+        pause(FRAME_RATE)   # Willie taught me how to set it.
+        if live == 0:
+            graphics.game_over()
+            break
 
-            if graphics.click:
-                while True:
-                    if graphics.total == 0:
-                        graphics.congrats()
-                        break
-                    vx = graphics.get_x_speed()
-                    vy = graphics.get_y_speed()
-                    graphics.click = False
+        if graphics.click:
+            while True:
+                if graphics.total == 0:
+                    graphics.congrats()
+                    break
+                vx = graphics.get_x_speed()
+                vy = graphics.get_y_speed()
+                graphics.click = False
 
-                    graphics.ball.move(vx, vy)
-                    graphics.bouncing()   # Willie also helped me to debug it.
+                graphics.ball.move(vx, vy)
+                graphics.bouncing()   # Willie also helped me to debug it.
 
-                    if graphics.ball.y + graphics.ball.height >= graphics.window.height:
-                        live -= 1
-                        graphics.life -= 1
-                        graphics.left_life.text = 'Life: '+str(graphics.life)
-                        graphics.get_ball()
-                        break
+                if graphics.ball.y + graphics.ball.height >= graphics.window.height:
+                    live -= 1
+                    graphics.life -= 1
+                    graphics.left_life.text = 'Life: '+str(graphics.life)
+                    graphics.get_ball()
+                    break
 
-                    # window system can't detect the ball velocity accurately, so set the functions. (by willie too XD)
-                    elif graphics.ball.x <= 0 or graphics.ball.x + graphics.ball.width >= graphics.window.width:
-                        graphics.reverse_x()
+                # window system can't detect the ball velocity accurately, so set the functions. (by willie too XD)
+                elif graphics.ball.x <= 0 or graphics.ball.x + graphics.ball.width >= graphics.window.width:
+                    graphics.reverse_x()
 
-                    elif graphics.ball.y <= 0:
-                        graphics.reverse_y()
+                elif graphics.ball.y <= 0:
+                    graphics.reverse_y()
 
-                    pause(FRAME_RATE)
+                pause(FRAME_RATE)
 
     # Add animation loop here!
 
