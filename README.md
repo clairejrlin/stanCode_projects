@@ -15,9 +15,8 @@ This repository holds my programming projects done during the period of stanCode
   * image processing
 * [My Drawing](https://github.com/clairejrlin/stanCode_projects/blob/main/stanCode_Projects/my_drawing/my_drawing.py) 
   * python drawing - The neuron cell cycle of brain neural development
-* [Breakout Game](https://github.com/clairejrlin/stanCode_projects/blob/main/stanCode_Projects/breakout_game/breakout.py)
+* [Breakout Game](https://github.com/clairejrlin/stanCode_projects/blob/main/stanCode_Projects/breakout_game/breakout.py) and [The setting of Game](https://github.com/clairejrlin/stanCode_projects/blob/main/stanCode_Projects/breakout_game/breakoutgraphics.py)
   * animation & game designing
-  * [The setting of the Breakout Game](https://github.com/clairejrlin/stanCode_projects/blob/main/stanCode_Projects/breakout_game/breakoutgraphics.py)
 * [Name Popularity Searching System](https://github.com/clairejrlin/stanCode_projects/blob/main/stanCode_Projects/babyname_searching_system/babygraphics.py)
   * data structure
 * [Boggle Game Solver](https://github.com/clairejrlin/stanCode_projects/blob/main/stanCode_Projects/boggle_game_solver/boggle.py)
